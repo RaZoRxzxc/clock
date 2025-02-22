@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "G:\\Trash\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41F60D05-0111-464B-BC27-A5AE215E16BC}|\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A.csproj|g:\\trash\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0431\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0431\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{41F60D05-0111-464B-BC27-A5AE215E16BC}|\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A.csproj|solutionrelative:\u0431\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{41F60D05-0111-464B-BC27-A5AE215E16BC}|\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A.csproj|g:\\trash\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0431\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0431\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41F60D05-0111-464B-BC27-A5AE215E16BC}|\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A.csproj|solutionrelative:\u0431\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F60D05-0111-464B-BC27-A5AE215E16BC}|\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A.csproj|g:\\trash\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0431\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0431\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0431\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{41F60D05-0111-464B-BC27-A5AE215E16BC}|\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A.csproj|solutionrelative:\u0431\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0431\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F60D05-0111-464B-BC27-A5AE215E16BC}|\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A.csproj|g:\\trash\\\u0437\u0430\u0434\u0430\u043D\u0438\u044F\\\u0431\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0431\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41F60D05-0111-464B-BC27-A5AE215E16BC}|\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A.csproj|solutionrelative:\u0431\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,19 +27,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A",
+              "DocumentMoniker": "G:\\Trash\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A.csproj",
+              "RelativeDocumentMoniker": "\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A.csproj",
+              "ToolTip": "G:\\Trash\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A.csproj",
+              "RelativeToolTip": "\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-22T07:10:28.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "G:\\Trash\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\Form1.cs",
               "RelativeDocumentMoniker": "\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\Form1.cs",
               "ToolTip": "G:\\Trash\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\Form1.cs",
               "RelativeToolTip": "\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-22T05:52:48.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "G:\\Trash\\\u0417\u0430\u0434\u0430\u043D\u0438\u044F\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\Form1.cs",
               "RelativeDocumentMoniker": "\u0411\u0443\u0434\u0438\u043B\u044C\u043D\u0438\u043A\\Form1.cs",

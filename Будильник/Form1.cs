@@ -4,9 +4,10 @@ namespace Будильник
 {
     public partial class Form1 : Form
     {
+      
         System.Windows.Forms.Timer timer01 = new System.Windows.Forms.Timer();
         bool b = false;
-        SoundPlayer sp = new SoundPlayer(@"Путь до звука");
+        SoundPlayer sp = new SoundPlayer(@"G:\ClockSound.wav");
         public Form1()
         {
             InitializeComponent();

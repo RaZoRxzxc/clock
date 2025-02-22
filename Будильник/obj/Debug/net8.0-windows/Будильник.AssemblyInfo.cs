@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Будильник")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acdd297ffd99dd22e9a10ef778ecc4f517ac593d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Будильник")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Будильник")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
